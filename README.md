@@ -1,5 +1,7 @@
+<div align"center">
+<img src="https://github.com/user-attachments/assets/138a678b-dbb4-420c-bd97-0d6c2d0d3ff1" />
 ![Descrição da imagem](assets/amigo-secreto.png)
-
+</div>
 <h1>Amigo Secreto</h1>
 
 > status: Concluído ✅
@@ -24,3 +26,10 @@ Este projeto é uma implementação simples de Amigo Secreto onde os usuários p
 + **HTML**: Estrutura da página.
 + **CSS**: Estilo e layout.
 + **JavaScript**: Funcionalidade para adicionar amigos e sortear o nome aleatório.
+
+## desenvolvedores
+A estrutura do **HTML** e o estilo **CSS** foram fornecidos pelo time da **alura**, e a lógica de sorteio e interação foi implementada por mim utilizando **JavaScript**.
+
+<img src="https://github.com/user-attachments/assets/138a678b-dbb4-420c-bd97-0d6c2d0d3ff1" width="100px" style="border: 5px solid #FF5733;" />
+
+
