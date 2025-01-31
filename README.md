@@ -1,7 +1,7 @@
 <div align"center">
-<img src="https://github.com/user-attachments/assets/138a678b-dbb4-420c-bd97-0d6c2d0d3ff1" />
-![Descrição da imagem](assets/amigo-secreto.png)
+<img src="https://github.com/user-attachments/assets/2c0148ca-c14d-4798-acde-3f32e268114f" width="400px" />
 </div>
+
 <h1>Amigo Secreto</h1>
 
 > status: Concluído ✅
