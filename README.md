@@ -30,6 +30,6 @@ Este projeto é uma implementação simples de Amigo Secreto onde os usuários p
 ## desenvolvedores
 A estrutura do **HTML** e o estilo **CSS** foram fornecidos pelo time da **alura**, e a lógica de sorteio e interação foi implementada por mim utilizando **JavaScript**.
 
-<img src="https://github.com/user-attachments/assets/138a678b-dbb4-420c-bd97-0d6c2d0d3ff1" width="100px" style="border: 5px solid #FF5733;" />
+<img src="https://github.com/user-attachments/assets/2b04967d-bbda-42bb-aacb-152ed97a79d3" width="100px" style="border: 5px solid #FF5733;" />
 
 
